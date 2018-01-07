@@ -10,3 +10,4 @@
 ## Resources
 
 - [The A11Y Project](https://a11yproject.com/)
+- [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
