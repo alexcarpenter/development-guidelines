@@ -19,3 +19,8 @@
 * All code in any code-base should look like a single person typed it, even
   when many people are contributing to it.
 
+## Acknowledgements
+
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css) - Nicolas Gallagher
+* [CSS Guidelines](https://cssguidelin.es/) - Harry Roberts
+* [Sass Guidelines](https://sass-guidelin.es/) - Hugo Giraudel
