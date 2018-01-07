@@ -5,6 +5,15 @@
 > your code, then write your code for maximum clarity, not your personal
 > preference of how to get clever within the spec." - Idan Gazit
 
+## Table of Contents
+
+* [Accessibility](./accessibility/)
+* [CSS](./css/)
+* [Git](./git/)
+* [HTML](./html/)
+* [JavaScript](./javascript/)
+* [Performance](./performance/)
+
 ## General Guidelines
 
 * All code in any code-base should look like a single person typed it, even
