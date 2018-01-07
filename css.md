@@ -28,12 +28,6 @@ Define a solid CSS organizational foundation. I prefer `ITCSS` Inverted Triangle
 * **Components** – specific UI components. This is where majority of our work takes place and our UI components are often composed of Objects and Components
 * **Utilities** – utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
 
-More reading:
-
-* [Managing CSS Projects with ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss) - Harry Roberts
-* [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) - Xfive
-* [Manage large-scale web projects with new CSS architecture ITCSS](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731) - net magazine
-
 ## Comments
 
 * Start each file with a [section](https://github.com/alexcarpenter/vscode-idiomatic-css-comments-snippets#section-com-section) comment.
@@ -160,3 +154,5 @@ Whitespace is free, use it to separate items, rules and declarations. Do not hes
 * [Sass Guidelines](https://sass-guidelin.es)
 * [CSS Guidelines](https://cssguidelin.es/)
 * [Managing CSS Projects with ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss)
+* [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) - Xfive
+* [Manage large-scale web projects with new CSS architecture ITCSS](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731) - net magazine
