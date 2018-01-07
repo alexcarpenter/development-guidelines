@@ -1,5 +1,11 @@
 # Accessibility Guidelines
 
+## Table of Contents
+
+* [General Guidelines](#general-guidelines)
+* [Recommended Tools](#recommended-tools)
+* [Resources](#resources)
+
 ## General Guidelines
 
 ## Recommended Tools

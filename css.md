@@ -1,5 +1,13 @@
 # CSS Guidelines
 
+## Table of Contents
+
+* [General Guidelines](#general-guidelines)
+* [Organization](#organization)
+* [Comments](#comments)
+* [Whitespace](#whitespace)
+* [Resources](#resources)
+
 ## General Guidelines
 
 * two (2) spaces indents, no tabs
