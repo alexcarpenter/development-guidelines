@@ -79,8 +79,9 @@ Whitespace is free, use it to separate items, rules and declarations. Do not hes
 * Two (2) empty lines between loosely related rulesets.
 * Four (4) empty lines between entirely new sections.
 
+Below is an example of a poorly written CSS file.
+
 ```css
-/* Bad */
 .o-table {
   width: 100%;
 }
@@ -107,8 +108,11 @@ Whitespace is free, use it to separate items, rules and declarations. Do not hes
     padding: $inuit-global-spacing-unit-huge;
   }
 }
+```
 
-/* Good */
+and the same example with proper use of whitespace and comments.
+
+```css
 /* ==========================================================================
    #TABLE
    ========================================================================== */
@@ -186,6 +190,8 @@ Whitespace is free, use it to separate items, rules and declarations. Do not hes
 
 }
 ```
+
+This code example is pulled from the [inuitcss project](https://github.com/inuitcss/inuitcss).
 
 ## Resources
 
