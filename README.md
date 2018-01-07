@@ -1,4 +1,4 @@
-# Development Guidelines
+# 📚 Development Guidelines
 
 > "Part of being a good steward to a successful project is realizing that
 > writing code for yourself is a Bad Idea™. If thousands of people are using
