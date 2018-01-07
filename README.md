@@ -5,7 +5,7 @@
 > your code, then write your code for maximum clarity, not your personal
 > preference of how to get clever within the spec." - Idan Gazit
 
-## Table of Contents
+## Guides
 
 * [Accessibility](./accessibility.md/)
 * [CSS](./css.md/)
@@ -18,9 +18,12 @@
 
 * All code in any code-base should look like a single person typed it, even
   when many people are contributing to it.
+* Consistency is key.
+* `KISS` Keep it simple stupid.
 
 ## Acknowledgements
 
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css) - Nicolas Gallagher
 * [CSS Guidelines](https://cssguidelin.es/) - Harry Roberts
 * [Sass Guidelines](https://sass-guidelin.es/) - Hugo Giraudel
+* [Front-end Guidelines](https://github.com/bendc/frontend-guidelines) - Benjamin De Cock
