@@ -5,6 +5,7 @@
 * [General Guidelines](#general-guidelines)
 * [Semantics](#semantics)
 * [Twig](#twig)
+* [Resources](#resources)
 
 ## General Guidelines
 
@@ -42,3 +43,5 @@ HTML5 provides us with lots of semantic elements aimed to describe precisely the
 
 * Macros: reusable markup across a lot of templates
 * Includes: part of "pages" that are extracted for readability and reusability
+
+## Resources
