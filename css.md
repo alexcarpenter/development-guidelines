@@ -18,6 +18,22 @@
 
 ## Organization
 
+Define a solid CSS organizational foundation. I prefer `ITCSS` Inverted Triangle CSS defined by Harry Roberts.
+
+* **Settings** – used with preprocessors and contain font, colors definitions, etc.
+* **Tools** – globally used mixins and functions. It’s important not to output any CSS in the first 2 layers.
+* **Generic** – reset and/or normalize styles, box-sizing definition, etc. This is the first layer which generates actual CSS.
+* **Elements** – styling for bare HTML elements (like H1, A, etc.). These come with default styling from the browser so we can redefine them here.
+* **Objects** – class-based selectors which define undecorated design patterns, for example media object known from OOCSS
+* **Components** – specific UI components. This is where majority of our work takes place and our UI components are often composed of Objects and Components
+* **Utilities** – utilities and helper classes with ability to override anything which goes before in the triangle, eg. hide helper class
+
+More reading:
+
+* [Managing CSS Projects with ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss) - Harry Roberts
+* [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) - Xfive
+* [Manage large-scale web projects with new CSS architecture ITCSS](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731) - net magazine
+
 ## Comments
 
 * Start each file with a [section](https://github.com/alexcarpenter/vscode-idiomatic-css-comments-snippets#section-com-section) comment.
