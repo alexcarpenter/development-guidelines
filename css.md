@@ -15,6 +15,7 @@
 * properly written multi-line CSS rules
 * meaningful use of whitespace
 * prefer single quotes to double quotes
+* namespace CSS properties
 
 ## Organization
 
