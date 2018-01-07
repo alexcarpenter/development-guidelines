@@ -21,6 +21,10 @@
 * Consistency is key.
 * `KISS` Keep it simple stupid.
 
+## Contribute
+
+Contributions are always welcome! Read the [contribution guidelines](./contributing.md/) first.
+
 ## Acknowledgements
 
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css) - Nicolas Gallagher
