@@ -7,12 +7,12 @@
 
 ## Table of Contents
 
-* [Accessibility](./accessibility/)
-* [CSS](./css/)
-* [Git](./git/)
-* [HTML](./html/)
-* [JavaScript](./javascript/)
-* [Performance](./performance/)
+* [Accessibility](./accessibility.md/)
+* [CSS](./css.md/)
+* [Git](./git.md/)
+* [HTML](./html.md/)
+* [JavaScript](./javascript.md/)
+* [Performance](./performance.md/)
 
 ## General Guidelines
 
