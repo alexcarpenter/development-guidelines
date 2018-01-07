@@ -1,0 +1,3 @@
+# Javascript Guidelines
+
+## General Guidelines
