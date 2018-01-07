@@ -31,8 +31,45 @@ Define a solid CSS organizational foundation. I prefer `ITCSS` Inverted Triangle
 
 ## Comments
 
-* Start each file with a [section](https://github.com/alexcarpenter/vscode-idiomatic-css-comments-snippets#section-com-section) comment.
-* Outline new sections with a [sub-section](https://github.com/alexcarpenter/vscode-idiomatic-css-comments-snippets#sub-section-com-subsection) comment.
+Well commented code is extremely important. Take time to describe components, how they work, their limitations, and the way they are constructed. Don't leave others in the team guessing as to the purpose of uncommon or non-obvious code.
+
+Comment style should be simple and consistent within a single code base.
+
+Place comments on a new line above their subject.
+Keep line-length to a sensible maximum, e.g., 80 columns.
+Make liberal use of comments to break CSS code into discrete sections.
+Use "sentence case" comments and consistent text indentation.
+Tip: configure your editor to provide you with shortcuts to output agreed-upon comment patterns.
+
+Example:
+
+```css
+/* ==========================================================================
+   Section comment block
+   ========================================================================== */
+
+/* Sub-section comment block
+   ========================================================================== */
+
+/**
+ * Short description using Doxygen-style comment format
+ *
+ * The first sentence of the long description starts here and continues on this
+ * line for a while finally concluding here at the end of this paragraph.
+ *
+ * The long description is ideal for more detailed explanations and
+ * documentation. It can include example HTML, URLs, or any other information
+ * that is deemed necessary or useful.
+ *
+ * @tag This is a tag named 'tag'
+ *
+ * TODO: This is a todo statement that describes an atomic task to be completed
+ *   at a later date. It wraps after 80 characters and following lines are
+ *   indented by 2 spaces.
+ */
+
+/* Basic comment */
+```
 
 ## Whitespace
 
