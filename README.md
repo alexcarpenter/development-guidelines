@@ -23,7 +23,7 @@
 
 ## Contribute
 
-Contributions are always welcome! Read the [contribution guidelines](./contributing.md/) first.
+Contributions are always welcome! Read the [contribution guidelines](./CONTRIBUTING.md/) first.
 
 ## Acknowledgements
 
